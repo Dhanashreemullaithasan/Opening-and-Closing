@@ -77,17 +77,13 @@ plt.axis('off')
 ## Output:
 
 ### Display the input Image
-
 ![d1](https://github.com/Dhanashreemullaithasan/Opening-and-Closing/assets/94165415/df78f5a1-a7f1-4063-a00d-c36b63931f7d)
 
 ### Display the result of Opening
-
 ![d2](https://github.com/Dhanashreemullaithasan/Opening-and-Closing/assets/94165415/a432bffd-44da-4938-ab5d-d5725045b923)
 
 ### Display the result of Closing
-
 ![d3](https://github.com/Dhanashreemullaithasan/Opening-and-Closing/assets/94165415/20ecbc34-4c28-4f6e-b995-47741ecf4457)
-
 
 ## Result
 Thus the Opening and Closing operation is used in the image using python and OpenCV.
